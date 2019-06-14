@@ -1,0 +1,75 @@
+div.menu{
+    background-color:#ffffff;
+  }
+  
+  div.contenido{
+    background-color:#f5f5f5;
+  }
+  div.avatar{
+    background-color:#f5f5f5;
+    height:auto ;
+    width: auto;
+  }
+
+  body {margin:0;height:2000px;}
+
+
+/* Stick menu */
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #5e9cf7;
+}
+
+.conocer {
+  background: #f95d77;
+  color: white;
+}
+
+.hacer {
+  background: #f95d77;
+  color: white;
+}
+
+.actividades {
+  background: #70f2eb;
+  color: white;
+}
+
+.contemplar {
+  background: #8b6ef4;
+  color: white;
+}
+
+.tareas {
+
+  background: #f95d77;
+  border-radius: 5px;
+  color: white;
+}
+
+.content {
+  margin-left: 30px;
+  font-size: 30px;
+}
+
+.avatar{
+    height: 100px;
+    width: 100px;
+}
+
